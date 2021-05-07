@@ -9,7 +9,7 @@ namespace HW6
     {
         public static int GetN()
         {
-            string nText = File.ReadAllText(@"C:\Users\Ufir\Desktop\Skillbox\C#\HW\6\N.txt");
+            string nText = File.ReadAllText(Directory.GetCurrentDirectory()+@"\N.txt");
             int n = 0;
             int.TryParse(nText, out n);
             return n;
