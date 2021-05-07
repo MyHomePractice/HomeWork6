@@ -1,0 +1,16 @@
+C:\Users\Ufir\Desktop\Skillbox\C#\HW\6\HW6\bin\Debug\net5.0\HW6.exe
+C:\Users\Ufir\Desktop\Skillbox\C#\HW\6\HW6\bin\Debug\net5.0\HW6.deps.json
+C:\Users\Ufir\Desktop\Skillbox\C#\HW\6\HW6\bin\Debug\net5.0\HW6.runtimeconfig.json
+C:\Users\Ufir\Desktop\Skillbox\C#\HW\6\HW6\bin\Debug\net5.0\HW6.runtimeconfig.dev.json
+C:\Users\Ufir\Desktop\Skillbox\C#\HW\6\HW6\bin\Debug\net5.0\HW6.dll
+C:\Users\Ufir\Desktop\Skillbox\C#\HW\6\HW6\bin\Debug\net5.0\ref\HW6.dll
+C:\Users\Ufir\Desktop\Skillbox\C#\HW\6\HW6\bin\Debug\net5.0\HW6.pdb
+C:\Users\Ufir\Desktop\Skillbox\C#\HW\6\HW6\obj\Debug\net5.0\HW6.csprojAssemblyReference.cache
+C:\Users\Ufir\Desktop\Skillbox\C#\HW\6\HW6\obj\Debug\net5.0\HW6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ufir\Desktop\Skillbox\C#\HW\6\HW6\obj\Debug\net5.0\HW6.AssemblyInfoInputs.cache
+C:\Users\Ufir\Desktop\Skillbox\C#\HW\6\HW6\obj\Debug\net5.0\HW6.AssemblyInfo.cs
+C:\Users\Ufir\Desktop\Skillbox\C#\HW\6\HW6\obj\Debug\net5.0\HW6.csproj.CoreCompileInputs.cache
+C:\Users\Ufir\Desktop\Skillbox\C#\HW\6\HW6\obj\Debug\net5.0\HW6.dll
+C:\Users\Ufir\Desktop\Skillbox\C#\HW\6\HW6\obj\Debug\net5.0\ref\HW6.dll
+C:\Users\Ufir\Desktop\Skillbox\C#\HW\6\HW6\obj\Debug\net5.0\HW6.pdb
+C:\Users\Ufir\Desktop\Skillbox\C#\HW\6\HW6\obj\Debug\net5.0\HW6.genruntimeconfig.cache
